@@ -1,8 +1,15 @@
 body{
     text-align: center;
+    background: rgb(157, 205, 245);
 }
 
 img{
     height: 400px;
     width: 500px;
+}
+
+h1, h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(12, 12, 175);
+    font-size: 25px;
 }
